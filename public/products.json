@@ -1,0 +1,79 @@
+[
+
+{
+"id":1,
+"title":"Adicolor classics Jogger",
+"category":"Dress",
+"price":263.85,
+"image":"/image/p1.jpg",
+"status":"Best Selers",
+"des":"Best seller products in Queens company. Top rated products of all time.luxurious products of the company."
+},
+{
+    "id":2,
+    "title":"Adicolor classics Jogger",
+    "category":"Hoodies",
+    "price":163.85,
+    "image":"/image/p2.jpg",
+    "status":"Best Selers",
+    "des":"Best seller products in Queens company. Top rated products of all time.luxurious products of the company."
+    },
+    {
+        "id":3,
+        "title":"Adicolor classics Jogger",
+        "category":"Dress",
+        "price":111.85,
+        "image":"/image/p3.jpg",
+        "status":"Best Selers",
+        "des":"Best seller products in Queens company. Top rated products of all time.luxurious products of the company."
+        },
+        {
+            "id":4,
+            "title":"Adicolor classics Jogger",
+            "category":"Hoodies",
+            "price":63.85,
+            "image":"/image/p4.jpg",
+            "status":"Best Selers",
+            "des":"Best seller products in Queens company. Top rated products of all time.luxurious products of the company."
+            },
+            {
+                "id":5,
+                "title":"Adicolor classics Jogger",
+                "category":"Dress",
+                "price":99.85,
+                "image":"/image/p5.jpg",
+                "status":"Best Selers",
+                "des":"Best seller products in Queens company. Top rated products of all time.luxurious products of the company."
+                },
+                {
+                    "id":6,
+                    "title":"Adicolor classics Jogger",
+                    "category":"Hoodies",
+                    "price":63.85,
+                    "image":"/image/p6.jpg",
+                    "status":"Best Selers",
+                    "des":"Best seller products in Queens company. Top rated products of all time.luxurious products of the company."
+                    },
+                    {
+                        "id":7,
+                        "title":"Adicolor classics Jogger",
+                        "category":"Bag",
+                        "price":76.85,
+                        "image":"/image/p7.jpg",
+                        "status":"Best Selers",
+                        "des":"Best seller products in Queens company. Top rated products of all time.luxurious products of the company."
+                        },
+                        {
+                            "id":8,
+                            "title":"Adicolor classics Jogger",
+                            "category":"Bag",
+                            "price":34.85,
+                            "image":"/image/p8.jpg",
+                            "status":"Best Selers",
+                            "des":"Best seller products in Queens company. Top rated products of all time.luxurious products of the company."
+                            }
+
+
+
+
+]
